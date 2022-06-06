@@ -12,7 +12,7 @@ using namespace std;
 #define en end
 #define int long long
 #define setz fixed<<setprecision(6)
-#define print(s) cout<<s<<endl
+#define print(s) cout<<s<<'\n'
 int cint();
 double cdouble();
 char schar();
