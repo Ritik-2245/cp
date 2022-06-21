@@ -18,7 +18,7 @@ using namespace std;
 #define ps(s) cout << s << ' '
 const int MOD = 1e9 + 7;
 int cint();
-unsigned long long uint();
+unsigned long long bint();
 double cdouble();
 char schar();
 string gstr();
@@ -86,7 +86,7 @@ char schar()
     return c;
 }
 
-unsigned long long uint()
+unsigned long long bint()
 {
     unsigned long long k;
     cin >> k;
