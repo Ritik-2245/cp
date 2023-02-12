@@ -25,7 +25,7 @@ using namespace std;
 #define yes cout<<"YES\n"
 #define no cout<<"NO\n"
 #define sz(x) x.size()
-#define TC 0
+#define TC 1
 const int mod = 1e9 + 7;
 int cint();
 unsigned long long bint();
